@@ -1,4 +1,4 @@
-# Use an official Python runtime as the base image(testing 10.51)
+# Use an official Python runtime as the base image(testing 10.55)
 FROM python:3.9-slim
 
 # Set the working directory in the container..
